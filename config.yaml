@@ -14,8 +14,7 @@ threshold: 7
 # A natural language statement that the large language model will use to judge which papers are relevant 
 #
 # For example:
-"I am interested in large language models, particularly new algorithms, security vulnerabilities and issues of bias or offensive content,"
-"I am also interesdted in text summarization, applications of large lengauge models to the legal profession and chatting with documents."
+"I am interested in large language models, particularly applications, alogrithms and open source models."
 #  
 #
 # This can be empty, which just return a full list of papers with no judgement or filtering,
